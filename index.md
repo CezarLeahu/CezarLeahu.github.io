@@ -27,7 +27,7 @@ _January 2018 - Present, Iasi_
 * Helped the client company switch build systems, from BambooCI to TravisCI
 * Helped with restructuring of projects and their CI pipelines
 * Technology stack: Java 11, Spring, SpringBoot, Tomcat, JMS (ActiveMQ), Camel, Maven, PostgreSQL, Angular, Docker, K8s,
-  Helm, Teraform, AWS, GitHub, TravisCI
+  Helm, Terraform, AWS, GitHub, TravisCI
 * Led a small development team since March 2021
 
 ## CRF Health
