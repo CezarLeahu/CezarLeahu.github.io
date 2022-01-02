@@ -178,6 +178,9 @@ Technical Questions and Topics
     - HTTP 3
 * GraphQL - pupose, main goal
 * What is a Webhook, how you set it up, how it works?
+* What is a Websocket, what is it useful for?
+* SWAGGER & OpenAPI & how you generate code from the swagger specs? How you use the endpoint, etc.
+* Feign clients, RESTEasy, etc.
 * Stateless vs Stateful protocols
 * Stateless vs Stateful applications
 * Cookies & Session (and how they work with a Stateless protocol as HTTP)
@@ -229,6 +232,11 @@ Technical Questions and Topics
 
 ## Enterprise applications and patterns
 * Enterprise Integration Patterns - [https://www.enterpriseintegrationpatterns.com/](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+  - synchronous vs. asynchronous communication
+  - message queues
+    - types
+    - communication patterns
+    - advantages vs disadvantages
 * DDD, BDD...
   - what is a "bounded context"?
   - Onion/Hexagonal/Clean Architecture
