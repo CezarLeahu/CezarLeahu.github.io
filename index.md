@@ -5,15 +5,26 @@ permalink: /
 ---
 
 # Interests
-* Software Architecture
-* Distributed applications
-* Building modern and efficient software solutions
+* Software Architecture. Software Development. DevOps
+* Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
+* AWS, Severless applications, Event-Streaming, Cloud-native applications, IoT
+* GoLang, Java 11+, Spring, ReactJS, Linux
+* Mentorship
 
 ___
 
 # Experience
+
+## Ness 
+_August 2021 - Present, Iasi_
+* Technical Architect/Tech Lead for one of newly established development teams
+* Helped with the growth of the team on the new project to up to 20 people, until we split into separate development teams
+* Trained colleagues on various technologies and client-specific tools
+* Investigated and prepared technical topics and feature requests
+* Held interviews with engineering candidates
+
 ## Ness
-_January 2018 - Present, Iasi_
+_January 2018 - August 2021, Iasi_
 * Worked for a large open-source ECM product
 * Was part of the multiple teams and interacted both with the core platform and with 10+ product extensions
 * Among the projects there were:
@@ -55,6 +66,13 @@ _August 2012 - October 2012, Iasi_
 _June 2011 - September 2011, Iasi_
 * Internship
 * Developed several client demo applications for the Migratory Push Server, the company's main product, on multiple mobile platforms
+
+___
+
+# Patents
+
+## System And Method Integrating Machine Learning Algorithms To Enrich Documents In A Content Management System
+* [US20200311187A1](https://patents.google.com/patent/US20200311187A1/en?oq=US20200311187A1)
 
 ___
 
@@ -113,6 +131,7 @@ ___
 * VCS: Git, GitHub, GitLab, BitBucket
 * Build tools: Gradle, Maven, Make
 * CI:  TravisCI, GitHub Actions, GitLabCI
+* Monitoring: Kibana, Dynatrace
 
 ### Operating Systems
 * RHEL, Debian, SUSE
@@ -138,13 +157,4 @@ ___
 **English:** Fluent
 
 **French:** Basic
-
-___
-
-# Other
-
-* Linux enthusiast.
-* Great attention to detail.
-* Care very much for clean, simple and short solutions (KISS principle).
-* Particularly proficient at refactoring code without changing its logic.
 
