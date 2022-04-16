@@ -8,7 +8,7 @@ permalink: /
 * Software Architecture. Software Development. DevOps
 * Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
 * AWS, Severless applications, Event-Streaming, Cloud-native applications, IoT
-* GoLang, Java 11+, Spring, ReactJS, Linux
+* GoLang, Kotlin, Java 11+, Spring, ReactJS, Linux
 * Mentorship
 
 ___
@@ -18,10 +18,11 @@ ___
 ## Ness 
 _August 2021 - Present, Iasi_
 * Technical Architect/Tech Lead for one of newly established development teams
-* Helped with the growth of the team on the new project to up to 20 people, until we split into separate development teams
+* Helped with the growth of the new team to around 20 members, until we split into separate development teams
 * Trained colleagues on various technologies and client-specific tools
 * Investigated and prepared technical topics and feature requests
 * Held interviews with engineering candidates
+* Worked on both administrative and development tasks
 
 ## Ness
 _January 2018 - August 2021, Iasi_
