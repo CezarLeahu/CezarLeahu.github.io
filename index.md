@@ -21,6 +21,7 @@ _August 2021 - Present, Iasi_
 * Helped with the growth of the new team to around 20 members, until we split into separate development teams
 * Trained colleagues on various technologies and client-specific tools
 * Investigated and prepared technical topics and feature requests
+* Internal person of conctact for security issues investigations (CVEs)
 * Held interviews with engineering candidates
 * Worked on both administrative and development tasks
 
