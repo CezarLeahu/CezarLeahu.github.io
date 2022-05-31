@@ -20,6 +20,7 @@ _August 2021 - Present, Iasi_
 * Technical Architect/Tech Lead for one of newly established development teams
 * Helped with the growth of the new team to around 20 members, until we split into separate development teams
 * Trained colleagues on various technologies and client-specific tools
+* Technology stack: Java 11, Spring, SpringBoot, Tomcat, Redis, Azure Service Bus, Maven, Oracle, Angular, Docker, OpenShift, Jenkins
 * Investigated and prepared technical topics and feature requests
 * Internal person of conctact for security issues investigations (CVEs)
 * Held interviews with engineering candidates
