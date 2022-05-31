@@ -7,7 +7,7 @@ permalink: /
 # Interests
 * Software Architecture. Software Development. DevOps
 * Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
-* AWS, Severless applications, Event-Streaming, Cloud-native applications, IoT
+* AWS, Severless applications, Event-Driven architectures, Cloud-Native applications, IoT
 * GoLang, Kotlin, Java 11+, Spring, ReactJS, Linux
 * Mentorship
 

@@ -70,6 +70,10 @@ Technical Questions and Topics
   - calculate the O complexity of a code routine
 
 ## Java
+* What is the JVM?
+* What is Java?
+* Barriers in Java
+* Classpaths and Classloaders
 * Sets & Maps (dictionaries, hashes):
   - common implementations and characteristics: HashTable, HashSet, HashMap, 
   - what happens if you don't implement the `hashCode()` method on the elements you insert into a Set/Map? How will the
@@ -116,6 +120,13 @@ Technical Questions and Topics
 * What are Servlet Filters? What they can be used for (e.g. Authentication filter)
   - filters are organised in a Chain-of-responsibility pattern
 
+## ORMs
+* JPA vs Hibernate vs SpringData
+* Dirty entities
+* Mapping strategies between Java Class Entities and Schemas
+* Transaction isolation levels
+* Optimistic vs Pesimistic locking
+
 ## Spring
 * What is the Spring Context?
 * Spring Beans
@@ -128,6 +139,8 @@ Technical Questions and Topics
 * Spring Dependency Injection (Inversion of Control) - basically the @Autowired annotation
 * Spring Data Repositories (JDBC, JPA, LDAP, Cassandra, MongoDB, Redis, REST, Elasticsearch, etc.)
   - high-level abstractions over the actual implementations
+* @Transactional annotation in Spring & transaction isolation levels
+  - Transacttion propagation
 * REST with Spring (Controllers)
 * Spring AOP
 * SpringBoot
@@ -166,6 +179,10 @@ Technical Questions and Topics
   - type of protocol (stateless, synchronious request-response)
   - how do the messages look like (what they contain)
   - HTTP methods
+    - POST vs PUT vs PATCH
+      - when to use which one
+      - idempotency aspects for each one of these
+    - appropiate response codes for each HTTP method
   - REST services and HTTP method mapping to CRUD operations
     - what [method] do you use to retrieve a resource
     - what do you use to create a resource
