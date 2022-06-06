@@ -113,12 +113,12 @@ ___
 
 ### Cloud Services and Technologies
 * AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, Route 53, Amazon MQ, DynamoDB, CloudFormation
-* Docker, Kubernetes, Helm, OpenShift
+* Docker, Podman, Helm, Kubernetes, OpenShift
 * Kafka
 * ZooKeeper
 * Riemann, Prometheus
 * Grafana, Kibana
-* TCP/IP Stack & Protocols
+* OSI & TCP/IP Models, Common Protocols
 
 ### AI
 * AWS Machine Learning Services: Comprehend, Rekognition, Textract
