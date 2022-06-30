@@ -22,7 +22,8 @@ _August 2021 - Present, Iasi_
 * Trained colleagues on various technologies and client-specific tools
 * Technology stack: Java 11, Spring, SpringBoot, Tomcat, Redis, Azure Service Bus, Maven, Oracle, Angular, Docker, OpenShift, Jenkins
 * Investigated and prepared technical topics and feature requests
-* Internal person of conctact for security issues investigations (CVEs)
+* Internal person of contact for security issues investigations (CVEs)
+* Handled the regular maintenance tasks for the team's modules (configuration changes, dependency upgrades)
 * Held interviews with engineering candidates
 * Worked on both administrative and development tasks
 
@@ -39,7 +40,7 @@ _January 2018 - August 2021, Iasi_
 * Wrote detailed design documents for features
 * Helped the client company migrate projects and history from GitLab to GitHub
 * Helped the client company switch build systems, from BambooCI to TravisCI
-* Helped with restructuring of projects and their CI pipelines
+* Restructured projects and rewrote entire CI/CD pipelines for the core projects in the company
 * Technology stack: Java 11, Spring, SpringBoot, Tomcat, JMS (ActiveMQ), Camel, Maven, PostgreSQL, Angular, Docker, K8s,
   Helm, Terraform, AWS, GitHub, TravisCI
 * Led a small development team since March 2021
