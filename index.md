@@ -8,15 +8,23 @@ permalink: /
 * Software Architecture. Software Development. DevOps
 * Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
 * AWS, Severless applications, Event-Driven architectures, Cloud-Native applications, IoT
-* GoLang, Kotlin, Java 11+, Spring, ReactJS, Linux
+* GoLang, Kotlin, Java 14+, Spring, ReactJS, TypeScript, Linux
 * Mentorship
 
 ___
 
 # Experience
 
+## Capgemini
+_July 2022 - Present, Iasi_
+* Digital Transformation project in the Finance industry
+* Team Lead on a newly established development team
+* Trained team members on the project's architecture, deployment and technologies
+* Created and designed a search functionality in the application. Started from scratch and covered the feature end-to-end: Elasticsearch integration (index design, search query setup, search filters), new search-dedicated backend components (Java/SpringBoot), deployment configuration (Helm charts, Bicep templates), Gateway and access configuration for the new APIs, data ingestion and synchronization (Liquibase upgrade scripts, Spring scheduled jobs, K8s NodeJS sync jobs), UI for the various search features in the application (ReactJS)
+* Technology stack: Java 17, SpringBoot, Maven, TypeScript, NestJS, ReactJS, Elasticsearch, Azure SQL, Azure Cosmos DB (MongoDB), Azure Service-Bus, Docker, K8s, AKS, Bicep Templates for Azure Resources, CrafterCMS, Apigee API Management
+
 ## Ness 
-_August 2021 - Present, Iasi_
+_August 2021 - June 2022_
 * Technical Architect/Tech Lead for one of newly established development teams
 * Helped with the growth of the new team to around 20 members, until we split into separate development teams
 * Trained colleagues on various technologies and client-specific tools
@@ -43,7 +51,7 @@ _January 2018 - August 2021, Iasi_
 * Restructured projects and rewrote entire CI/CD pipelines for the core projects in the company
 * Technology stack: Java 11, Spring, SpringBoot, Tomcat, JMS (ActiveMQ), Camel, Maven, PostgreSQL, Angular, Docker, K8s,
   Helm, Terraform, AWS, GitHub, TravisCI
-* Led a small development team since March 2021
+* Led a development team since March 2021
 
 ## CRF Health
 _March 2017 - December 2017, Iasi_
@@ -98,6 +106,7 @@ ___
 
 ### Languages and Frameworks
 * Java 8+, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
+* TypeScript, NestJS
 * Bash
 * GoLang
 * SQL & PL/SQL
@@ -110,7 +119,10 @@ ___
 * Oracle
 * PostgreSQL
 * MySQL/MariaDB
+* Elasticsearch
 * Cassandra
+* MongoDB
+* Redis
 
 ### Cloud Services and Technologies
 * AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, Route 53, Amazon MQ, DynamoDB, CloudFormation
