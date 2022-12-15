@@ -125,7 +125,7 @@ ___
 * Redis
 
 ### Cloud Services and Technologies
-* AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, Route 53, Amazon MQ, DynamoDB, CloudFormation
+* AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, API Gateway, Route 53, Amazon MQ, DynamoDB, RDS, CloudFormation
 * Docker, Podman, Helm, Kubernetes, OpenShift
 * Kafka
 * ZooKeeper
