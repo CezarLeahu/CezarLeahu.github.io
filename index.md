@@ -105,7 +105,7 @@ ___
 # Skills
 
 ### Languages and Frameworks
-* Java 8+, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
+* Java 11+, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
 * TypeScript, NestJS
 * Bash
 * GoLang
