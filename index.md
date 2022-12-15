@@ -8,7 +8,7 @@ permalink: /
 * Software Architecture. Software Development. DevOps
 * Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
 * AWS, Severless applications, Event-Driven architectures, Cloud-Native applications, IoT
-* GoLang, Kotlin, Java 14+, Spring, ReactJS, TypeScript, Linux
+* TypeScript, Kotlin, Java 14+, Spring, ReactJS, GoLang, Linux
 * Mentorship
 
 ___
