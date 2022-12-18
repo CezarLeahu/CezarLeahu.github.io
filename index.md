@@ -25,6 +25,7 @@ _July 2022 - Present, Iasi_
 
 ## Ness 
 _August 2021 - June 2022_
+* Dealer management system - Automotive industry
 * Technical Architect/Tech Lead for one of newly established development teams
 * Helped with the growth of the new team to around 20 members, until we split into separate development teams
 * Trained colleagues on various technologies and client-specific tools
@@ -37,7 +38,8 @@ _August 2021 - June 2022_
 
 ## Ness
 _January 2018 - August 2021, Iasi_
-* Worked for a large open-source ECM product
+* Worked on a large Enterprise Content Management product
+* Open-source project
 * Was part of the multiple teams and interacted both with the core platform and with 10+ product extensions
 * Among the projects there were:
   - integration of AWS Machine Learning services (Comprehend, Textract & Rekognition)
@@ -55,19 +57,20 @@ _January 2018 - August 2021, Iasi_
 
 ## CRF Health
 _March 2017 - December 2017, Iasi_
+* eConsent solution for Clinical Trials
 * Worked on the company's new eConsent product, a multi-tenant SaaS solution for managing the consent process
 * Performed design, implementation and testing of new features
 * Technology stack: microservice architecture on top of OpenShift, JEE (WildFly), ReactJS, PostgreSQL
 
 ## Optymyze
 _January 2013 - February 2017, Iasi_
-* The company's product was a multi-tenant SaaS and On-Premise SPM solution
-* Was part of a team that developed a SpringBoot Web application plus a variety of extensions that facilitated the
-  management of all the company's cloud deployments and project configurations. That included provisioning,
-  configuration and management of VMs, Storage, DB servers, JEE Application Servers and the product itself. Our
-  software also handled client environment installations, upgrades, backups, migration, sandboxes and various
-  other configurations (e.g. SSO configuration, enabled features, etc.)
-* Technology stack: Java 8, SpringBoot, JSF, Oracle, ZooKeeper, Kafka, Kubernetes, DynamoDB, LVM+NFS&Samba, GoLang
+* The company provided SPM services (Sales Performance Management)
+* Was part of a team that build tools for managing the deployments and configurations of the client environments
+* Among the projects there were:
+  - JSE apps: custom HTTP proxies/software balancers, Oracle Servers installers, DB Schemas upgraders, installers for Application Servers & Web Apps, Backup & Restore tools, Sandboxing tools
+  - Linux Go daemons: storage management tools - LVM partitioning, NFS&CIFS sharing/mounting
+  - One main Web App (SpringBoot, JSF) that integrated with all the tools and also provided client environment configurations (SSO, enabled features, etc.), cloud resource provisioning (VMs, storage), Kubernetes cluster management, etc.
+* Technology stack: Java 8, SpringBoot, JSF, Oracle, ZooKeeper, Kafka, Kubernetes, DynamoDB, LVM+NFS&Samba, GoLang.
 
 ## Amazon
 _August 2012 - October 2012, Iasi_
