@@ -8,7 +8,7 @@ permalink: /
 * Software Architecture. Software Development. DevOps
 * Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
 * AWS, Severless applications, Event-Driven architectures, Cloud-Native applications, IoT
-* TypeScript, Kotlin, Java 14+, Spring, ReactJS, GoLang, Linux
+* TypeScript, ReactJS, Kotlin, Java 14+, Spring, GoLang, Linux
 * Mentorship
 
 ___
@@ -105,15 +105,15 @@ ___
 # Skills
 
 ### Languages and Frameworks
-* Java 11+, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
-* TypeScript, NestJS
-* Bash
+* Java 11+, Kotlin, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
+* NodeJS: TypeScript, NestJS
+* ReactJS: Hooks, Redux, MaterialUI, AG Grid
 * GoLang
-* SQL & PL/SQL
-* ReactJS
 * Python
 * C, C++14, Qt
 * C#.NET
+* Bash
+* SQL & PL/SQL
 
 ### Databases
 * Oracle
