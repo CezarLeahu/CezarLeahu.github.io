@@ -15,7 +15,7 @@ ___
 
 # Experience
 
-## Software Developer (Contractor, Remote)
+## Software Engineer (Contractor, Remote)
 _January 2023 - Present_
 * Various projects and industries
 * Event-Driven applications
