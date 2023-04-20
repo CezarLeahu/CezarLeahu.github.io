@@ -15,8 +15,15 @@ ___
 
 # Experience
 
+## Software Developer (Contractor, Remote)
+_January 2023 - Present_
+* Various projects and industries
+* Event-Driven applications
+* Tech stack: NodeJS, Java 17, ReactJS, Kafka, Azure, AWS, K8s
+
+
 ## Capgemini
-_July 2022 - Present, Iasi_
+_July 2022 - November 2022, Iasi_
 * Digital Transformation project in the Finance industry
 * Team Lead on a newly established development team
 * Trained team members on the project's architecture, deployment and technologies
@@ -24,7 +31,7 @@ _July 2022 - Present, Iasi_
 * Technology stack: Java 17, SpringBoot, Maven, TypeScript, NestJS, ReactJS, Elasticsearch, Azure SQL, Azure Cosmos DB (MongoDB), Azure Service-Bus, Docker, K8s, AKS, Bicep Templates for Azure Resources, CrafterCMS, Apigee API Management
 
 ## Ness 
-_August 2021 - June 2022_
+_August 2021 - June 2022, Iasi_
 * Dealer management system - Automotive industry
 * Technical Architect/Tech Lead for one of newly established development teams
 * Helped with the growth of the new team to around 20 members, until we split into separate development teams
@@ -129,6 +136,7 @@ ___
 
 ### Cloud Services and Technologies
 * AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, API Gateway, Route 53, Amazon MQ, DynamoDB, RDS, CloudFormation
+* Azure: AKS, TableStorage, CosmosDB
 * Docker, Podman, Helm, Kubernetes, OpenShift
 * Kafka
 * ZooKeeper
@@ -163,6 +171,7 @@ ___
 
 ### Project Planning & Organization
 * Confluence & JIRA
+* Azure DevOps
 
 ### Other
 * UML
