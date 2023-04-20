@@ -19,7 +19,7 @@ ___
 _January 2023 - Present_
 * Various projects and industries
 * Event-Driven applications
-* Tech stack: NodeJS, Java 17, ReactJS, Kafka, Azure, AWS, K8s
+* Technologies: Node, Java/Kotlin, Go, ReactJS, Kafka, K8s, AWS, Azure
 
 
 ## Capgemini
