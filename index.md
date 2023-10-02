@@ -5,11 +5,10 @@ permalink: /
 ---
 
 # Interests
-* Software Architecture. Software Development. DevOps
-* Efficient software. Clean code. Performance. Security. Cost. Simple and short solutions (KISS principle)
-* AWS, Severless applications, Event-Driven architectures, Cloud-Native applications, IoT
-* TypeScript, ReactJS, Kotlin, Java 14+, Spring, GoLang, Linux
-* Mentorship
+* Software design and architecture
+* Reactive programming, CQRS & Event Sourcing
+* Kotlin/Java, Spring, TypeScript, ReactJS, GoLang, Linux
+* K8s, Severless, Cloud services (AWS, GCP, Azure)
 
 ___
 
