@@ -22,7 +22,7 @@ _September 2025 - Present_
 _January 2023 - August 2025, Iasi_
 * Human Resources registry - Automotive industry
 * SAP SuccessFactors integration and smart cache system
-* Event-Driven applications with high-throughtput
+* Event-Driven applications with High-throughput
 * Migrated system from Azure ACS to AKS with ArgoCD
 * Technoloy stack: Kotlin&SpringBoot, Java&Quarkus, WebFlux, Azure TableStorage, Kafka, Azure App Service, K8s & ArgoCD on Azure AKS, Kibana
 
@@ -133,6 +133,7 @@ ___
 * Oracle
 * PostgreSQL
 * MySQL/MariaDB
+* Snowflake
 * Elasticsearch
 * Cassandra
 * MongoDB
