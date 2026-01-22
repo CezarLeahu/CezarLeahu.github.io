@@ -6,7 +6,6 @@ permalink: /
 
 # Interests
 * Software design and architecture
-* Reactive programming, CQRS & Event Sourcing
 * Kotlin/Java, Spring, TypeScript, ReactJS, GoLang, Linux
 * K8s, Severless, Cloud services (AWS, GCP, Azure)
 
@@ -15,19 +14,25 @@ ___
 # Experience
 
 ## Software Engineer (Contractor, Remote)
-_January 2023 - Present_
-* Various projects and industries
-* Event-Driven applications
-* Technologies: Node, Java/Kotlin, Go, ReactJS, Kafka, K8s, AWS, Azure
+_September 2025 - Present_
+* Part-time projects & Freelancing
+* Technologies: Java, WebFlux, RxJava, Node, ReactJS, Kafka, K8s, Snowflake
 
+## Capgemini
+_January 2023 - August 2025, Iasi_
+* Human Resources registry - Automotive industry
+* SAP SuccessFactors integration and smart cache system
+* Event-Driven applications with high-throughtput
+* Migrated system from Azure ACS to AKS with ArgoCD
+* Technoloy stack: Kotlin&SpringBoot, Java&Quarkus, WebFlux, Azure TableStorage, Kafka, Azure App Service, K8s & ArgoCD on Azure AKS, Kibana
 
 ## Capgemini
 _July 2022 - November 2022, Iasi_
 * Digital Transformation project in the Finance industry
 * Team Lead on a newly established development team
 * Trained team members on the project's architecture, deployment and technologies
-* Created and designed a search functionality in the application. Started from scratch and covered the feature end-to-end: Elasticsearch integration (index design, search query setup, search filters), new search-dedicated backend components (Java/SpringBoot), deployment configuration (Helm charts, Bicep templates), Gateway and access configuration for the new APIs, data ingestion and synchronization (Liquibase upgrade scripts, Spring scheduled jobs, K8s NodeJS sync jobs), UI for the various search features in the application (ReactJS)
-* Technology stack: Java 17, SpringBoot, Maven, TypeScript, NestJS, ReactJS, Elasticsearch, Azure SQL, Azure Cosmos DB (MongoDB), Azure Service-Bus, Docker, K8s, AKS, Bicep Templates for Azure Resources, CrafterCMS, Apigee API Management
+* Created and designed a search functionality in the application. Started from scratch and covered the feature end-to-end: Elasticsearch integration (index design, search query setup, search filters), new search-dedicated backend components (Kotlin/SpringBoot), deployment configuration (Helm charts, Bicep templates), Gateway and access configuration for the new APIs, data ingestion and synchronization (Liquibase upgrade scripts, Spring scheduled jobs, K8s NodeJS sync jobs), UI for the various search features in the application (ReactJS)
+* Technology stack: Kotlin, SpringBoot, Maven, TypeScript, NestJS, ReactJS, Elasticsearch, Azure SQL, Azure Cosmos DB (MongoDB), Azure Service-Bus, Docker, K8s, AKS, Bicep Templates for Azure Resources, CrafterCMS, Apigee API Management
 
 ## Ness 
 _August 2021 - June 2022, Iasi_
@@ -114,7 +119,7 @@ ___
 # Skills
 
 ### Languages and Frameworks
-* Java 11+, Kotlin, Spring, SpringBoot, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
+* Java 11+, Kotlin, Spring, SpringBoot, WebFlux, RxJava, JMS, JPA, JMX, JUnit, Mockito, Maven, Gradle, JVM profiling
 * NodeJS: TypeScript, NestJS
 * ReactJS: Hooks, Redux, MaterialUI, AG Grid
 * GoLang
@@ -135,16 +140,17 @@ ___
 
 ### Cloud Services and Technologies
 * AWS: EC2, EKS, VPC, IAM, EFS, S3, Cloudfront, API Gateway, Route 53, Amazon MQ, DynamoDB, RDS, CloudFormation
-* Azure: AKS, TableStorage, CosmosDB
+* Azure: AKS, TableStorage, CosmosDB, App Services, AKS
 * Docker, Podman, Helm, Kubernetes, OpenShift
 * Kafka
 * ZooKeeper
 * Riemann, Prometheus
 * Grafana, Kibana
-* OSI & TCP/IP Models, Common Protocols
+* OSI & TCP/IP Models, Common Protocols, Networking
 
 ### AI
 * AWS Machine Learning Services: Comprehend, Rekognition, Textract
+* Familiarity with: ChatGPT, Claude, Perplexity, Cursor
 
 ### Mobile Development:
 * Android
@@ -156,7 +162,7 @@ ___
 ### CI & Tooling:
 * VCS: Git, GitHub, GitLab, BitBucket
 * Build tools: Gradle, Maven, Make
-* CI:  TravisCI, GitHub Actions, GitLabCI
+* CI: GitHub Actions, GitLabCI, TravisCI
 * Monitoring: Kibana, Dynatrace
 
 ### Operating Systems
@@ -171,10 +177,7 @@ ___
 ### Project Planning & Organization
 * Confluence & JIRA
 * Azure DevOps
-
-### Other
 * UML
-* JHipster
 
 ___
 
