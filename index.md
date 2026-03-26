@@ -11,10 +11,10 @@ ___
 
 ## Skills
 
-* Java | Kotlin | Spring Boot | WebFlux | Node.js | TypeScript | React | Go (GoLang)
-* AWS | Azure | Kubernetes | Docker | Helm | Kafka | CI/CD pipelines
-* PostgreSQL | Oracle | MongoDB | Redis | Elasticsearch | Snowflake
-* System design | Event-driven architecture | Microservices | Distributed Systems
+* Java \| Kotlin \| Spring Boot \| WebFlux \| Node.js \| TypeScript \| React \| Go (GoLang)
+* AWS \| Azure \| Kubernetes \| Docker \| Helm \| Kafka \| CI/CD pipelines
+* PostgreSQL \| Oracle \| MongoDB \| Redis \| Elasticsearch \| Snowflake
+* System design \| Event-driven architecture \| Microservices \| Distributed Systems
 
 ## Experience
 
