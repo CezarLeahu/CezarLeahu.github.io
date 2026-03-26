@@ -9,6 +9,13 @@ Senior engineer with 10+ years of experience designing and scaling distributed s
 
 ___
 
+## Skills
+
+* Java | Kotlin | Spring Boot | WebFlux | Node.js | TypeScript | React | Go (GoLang)
+* AWS | Azure | Kubernetes | Docker | Helm | Kafka | CI/CD pipelines
+* PostgreSQL | Oracle | MongoDB | Redis | Elasticsearch | Snowflake
+* System design | Event-driven architecture | Microservices | Distributed Systems
+
 ## Experience
 
 **Software Engineer (Contractor)** — Remote \
@@ -51,20 +58,6 @@ _Jan 2013 – Feb 2017_
 * Worked across Java, Go, Linux systems, and Kubernetes
 
 **Internships:** Amazon (2012), Migratory Data Systems (2011)
-
-## Skills
-
-**Languages & Frameworks:** \
-Java, Kotlin, Spring Boot, WebFlux, Node.js (TypeScript, NestJS), React, Go (GoLang)
-
-**Cloud & DevOps:** \
-AWS, Azure, Kubernetes, Docker, Helm, Kafka, CI/CD pipelines
-
-**Databases:** \
-PostgreSQL, Oracle, MongoDB, Redis, Elasticsearch, Snowflake
-
-**Other:** \
-System design, event-driven architecture, microservices, distributed systems
 
 ## Education
 
