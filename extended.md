@@ -13,7 +13,7 @@ ___
 
 # Experience
 
-**Software Engineer** (Contractor, Remote)
+**Software Engineer** (Remote)
 _September 2025 - Present_
 * Part-time projects & Freelancing
 * Technologies: Java, WebFlux, RxJava, Node, ReactJS, Kafka, K8s, Snowflake
@@ -24,7 +24,7 @@ _January 2023 - August 2025, Iasi_
 * SAP SuccessFactors integration and smart cache system
 * Event-Driven applications with High-throughput
 * Migrated system from Azure ACS to AKS with ArgoCD
-* Technoloy stack: Kotlin&SpringBoot, Java&Quarkus, WebFlux, Azure TableStorage, Kafka, Azure App Service, K8s & ArgoCD on Azure AKS, Kibana
+* Technoloy stack: Kotlin, Java, SpringBoot, Quarkus, WebFlux, Azure TableStorage, Kafka, Azure App Service, K8s & ArgoCD on Azure AKS, Kibana
 
 **Capgemini**
 _July 2022 - November 2022, Iasi_
