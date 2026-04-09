@@ -1,7 +1,7 @@
 ---
-date: 2021-05-22
+date: 2026-04-09
 title: CV
-permalink: /
+permalink: /extended
 ---
 
 # Interests
